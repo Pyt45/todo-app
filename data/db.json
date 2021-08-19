@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "todo": "eat breakfast",
+      "details": "Weak up Early and eat breakfast",
+      "id": 1
+    },
+    {
+      "todo": "coding",
+      "details": "After breakfast we gonna code something",
+      "id": 2
+    }
+  ]
+}
